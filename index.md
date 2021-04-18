@@ -1,9 +1,6 @@
-# Python for Data Science
 
-## HTML Semantic analysis
-
-<h1>Markup Language</h1>
-<p>Projects should focus on exploring markup from one or more of the top 50 websites, according to Alexa. </p>
+<h1>Markup Language analysis</h1>
+<p>This project focuses on exploring markup from one or more of the top 50 websites, according to Alexa. </p>
 <p>‘An analysis of the semantic features of streaming websites.’</p>
 
 The first thing we need to do is to get the information from the URL: https://www.alexa.com/topsites/countries/GB. Where the top 50 websites for the UK are listed. This analyisis intends to find any correlation between being a top site and having an specific DOM (Document Element) structure.

@@ -7,3 +7,5 @@
 As an initial approach, the HTML tags and wordocunts are analysed, and compared, in order to be able to extract some results.
 
 Finally, an TF-IDF (NLP) analysisi is done in the websites, so one may know which websites are more similar by the frequency of each word that appears in the website. 
+
+You can find the concluded work [here](https://davidrodriguezpozo.github.io/HTML-Semantic-analysis/)
